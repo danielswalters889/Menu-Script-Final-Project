@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PlanFinalize"></activity>
+        <activity android:name=".WeeksMeals"></activity>
+        <activity android:name=".GroceryList" />
+        <activity android:name=".PlanFinalize" />
         <activity android:name=".MealBuilding" />
         <activity android:name=".MealsNumber" />
         <activity android:name=".MainActivity">
